@@ -1,0 +1,81 @@
+.d1 {
+      display: block;
+      color: yellow;
+      background: black;
+      margin-bottom: 4px;
+      text-align: center;
+    }
+
+.band {
+  background: white;
+  width: auto;
+  height: 5px;
+}
+
+.d2 {
+      display: block;
+      color: white;
+      background: green;
+      margin-bottom: 4px;
+      text-align: center;
+      align: center;
+    }
+
+.d3 {
+      display: block;
+      color: white;
+      background: red;
+      margin-bottom: 4px;
+      text-align: center;
+      align: bottom;
+      font-size: 40px;
+    }
+
+.p1 {
+      display: inline;
+      font-size: 70px;
+    }
+
+.h2 {
+      display: inline;
+      font-style: oblique;
+      font-size: 150px;
+    }
+
+.centerstr {
+      text-align: center;
+    }
+
+.rightstr {
+      text-align: right; /* Выравнивание по правому краю */
+      font-size: 70px;
+     }
+
+.textimg1 {
+	   position: absolute;
+     font-size: 150px;
+     color: black;
+	   text-align: center;
+     vertical-align: top;
+    }
+
+.textimg2 {
+	   position: absolute;
+     font-size: 100px;
+     color: white;
+  	 vertical-align: bottom;
+  	 align: bottom;
+  	 text-align: center;
+    }
+
+body {
+      background: url(1.png) no-repeat;
+      -moz-background-size: 100%; /* Firefox 3.6+ */
+      -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+      -o-background-size: 100%; /* Opera 9.6+ */
+      background-size: 100%; /* Современные браузеры */
+     }
+
+.table {
+       align: center;
+      }
