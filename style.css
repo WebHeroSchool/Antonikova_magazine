@@ -1,0 +1,37 @@
+
+.d3 {
+      display: block;
+      color: white;
+      background: red;
+      margin-bottom: 4px;
+      text-align: center;
+      align: bottom;
+      font-size: 40px;
+    }
+
+.p1 {
+      display: inline;
+      font-size: 70px;
+      background: red;
+    }
+
+.h1 {
+      display: inline;
+      font-style: oblique;
+      font-size: 100px;
+      color: yellow;
+    }
+
+.h2 {
+      display: inline;
+      font-style: oblique;
+      font-size: 150px;
+    }
+
+body {
+      background: url(1.png) no-repeat;
+      -moz-background-size: 100%; /* Firefox 3.6+ */
+      -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+      -o-background-size: 100%; /* Opera 9.6+ */
+      background-size: 100%; /* Современные браузеры */
+     }
