@@ -1,5 +1,5 @@
 
-.d3 {
+.footer__title {
       display: block;
       color: white;
       background: red;
@@ -9,20 +9,14 @@
       font-size: 40px;
     }
 
-.p1 {
+.header__title_top {
       display: inline;
       font-size: 70px;
-      background: red;
-    }
-
-.h1 {
-      display: inline;
-      font-style: oblique;
-      font-size: 100px;
+      background: blue;
       color: yellow;
     }
 
-.h2 {
+.header__title_center {
       display: inline;
       font-style: oblique;
       font-size: 150px;
