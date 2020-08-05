@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400;1,900&family=Rowdies:wght@700&display=swap');
 
 .footer__title {
       display: block;
@@ -7,6 +9,7 @@
       text-align: center;
       align: bottom;
       font-size: 40px;
+      font-family: 'Rowdies', cursive;    
     }
 
 .header__title_top {
@@ -23,6 +26,7 @@
     }
 
 body {
+      font-family: 'Lato', sans-serif;
       background: url(1.png) no-repeat;
       -moz-background-size: 100%; /* Firefox 3.6+ */
       -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
